@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=16&duration=2800&pause=1000&color=6E9EFF&center=true&vCenter=true&width=650&lines=Building+production-grade+iOS+apps+since+2022;Swift+%7C+SwiftUI+%7C+UIKit+%7C+Xcode;Node.js+%7C+React+%7C+Full+Stack+Engineer;DSA+problem+solver+in+Java"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=16&duration=2800&pause=1000&color=6E9EFF&center=true&vCenter=true&width=650&lines=Swift+%7C+SwiftUI+%7C+UIKit+%7C+Xcode;Node.js+%7C+React+%7C+Full+Stack+Engineer;DSA+problem+solver+in+Java"/>
 
 <br/>
 
@@ -15,8 +15,6 @@
 ![](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 &nbsp;
 ![](https://img.shields.io/badge/DSA-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-&nbsp;
-![](https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square)
 
 </div>
 
@@ -92,7 +90,7 @@ I value clean architecture, readable code, and products that actually feel good 
 
 **Mobile**
 
-<img src="https://skillicons.dev/icons?i=swift,xcode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=swift,apple&theme=dark"/>
 
 <br/>
 
@@ -111,24 +109,6 @@ I value clean architecture, readable code, and products that actually feel good 
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,figma&theme=dark"/>
-
-</div>
-
-<br/>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyash170&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=6E9EFF&icon_color=6E9EFF"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash170&layout=compact&theme=github_dark&hide_border=true&title_color=6E9EFF"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shreyash170&theme=github-dark&hide_border=true&ring=6E9EFF&fire=6E9EFF&currStreakLabel=6E9EFF"/>
 
 </div>
 
