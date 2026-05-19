@@ -1,116 +1,163 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&customColorList=2,12,20&text=Shreyash%20Gupta&fontSize=42&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DSA&descSize=16&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,12,20&text=Shreyash%20Gupta&fontSize=46&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DSA%20in%20Java&descSize=17&descAlignY=60&animation=fadeIn&fontColor=FFFFFF"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=18&duration=2800&pause=1000&color=EAEAEA&center=true&vCenter=true&width=700&lines=2.4%2B+years+of+iOS+development;Swift+%7C+SwiftUI+%7C+UIKit;Node.js+%7C+React+%7C+Full+Stack;Strong+DSA+foundation+in+Java"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=16&duration=2800&pause=1000&color=6E9EFF&center=true&vCenter=true&width=650&lines=Building+production-grade+iOS+apps+since+2022;Swift+%7C+SwiftUI+%7C+UIKit+%7C+Xcode;Node.js+%7C+React+%7C+Full+Stack+Engineer;DSA+problem+solver+in+Java"/>
 
 <br/>
 
-![](https://img.shields.io/badge/iOS-2.4%2B%20Years-0A84FF?style=flat-square&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/iOS_Dev-2.4%2B_Years-0A84FF?style=flat-square&logo=apple&logoColor=white)
+&nbsp;
 ![](https://img.shields.io/badge/Backend-Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
+&nbsp;
 ![](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+&nbsp;
 ![](https://img.shields.io/badge/DSA-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Open%20to-Opportunities-6E40C9?style=flat-square)
+&nbsp;
+![](https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square)
 
 </div>
+
+<br/>
 
 ---
 
 ## About Me
 
-Software engineer with **2.4+ years** of production iOS experience building Swift apps from scratch.
-Equally comfortable on the backend with Node.js and the frontend with React.
-Strong problem solver with deep hands-on practice in data structures and algorithms using Java.
-I care about clean code, thoughtful architecture, and great user experience.
+Software engineer with **2.4+ years** of hands-on iOS development experience, shipping production Swift applications. I work across the full stack — building RESTful backends with Node.js and clean frontends with React. I have a strong foundation in data structures and algorithms, practised extensively in Java.
+
+I value clean architecture, readable code, and products that actually feel good to use.
 
 ---
 
 ## Experience
 
+<br/>
+
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+
+<table border="0" cellspacing="12" cellpadding="0">
 <tr>
-<td width="200" align="center">
 
-### 📱 iOS Development
-```
-Swift · SwiftUI · UIKit
-Xcode · CocoaPods
-```
-![](https://img.shields.io/badge/2.4%2B%20years-0A84FF?style=flat-square)
-
+<td align="center" width="210">
+<img src="https://img.shields.io/badge/iOS_Development-0A84FF?style=for-the-badge&logo=apple&logoColor=white"/>
+<br/><br/>
+<sub>Swift &nbsp;·&nbsp; SwiftUI &nbsp;·&nbsp; UIKit</sub><br/>
+<sub>Xcode &nbsp;·&nbsp; CocoaPods &nbsp;·&nbsp; CoreData</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/2.4%2B%20years-0A84FF?style=flat-square&logoColor=white"/>
 </td>
-<td width="200" align="center">
 
-### 🖥 Backend
-```
-Node.js · Express
-REST APIs · Java
-```
-![](https://img.shields.io/badge/Hands--on-3C873A?style=flat-square)
-
+<td align="center" width="210">
+<img src="https://img.shields.io/badge/Backend-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<br/><br/>
+<sub>Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; REST APIs</sub><br/>
+<sub>Java &nbsp;·&nbsp; JWT &nbsp;·&nbsp; Middleware</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Hands--on-3C873A?style=flat-square"/>
 </td>
-<td width="200" align="center">
 
-### 🌐 Frontend
-```
-React · JavaScript
-TypeScript · HTML · CSS
-```
-![](https://img.shields.io/badge/Hands--on-7B68EE?style=flat-square)
-
+<td align="center" width="210">
+<img src="https://img.shields.io/badge/Frontend-7B68EE?style=for-the-badge&logo=react&logoColor=white"/>
+<br/><br/>
+<sub>React &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript</sub><br/>
+<sub>HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; Responsive UI</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Hands--on-7B68EE?style=flat-square"/>
 </td>
-<td width="200" align="center">
 
-### 🧠 DSA
-```
-Java · Arrays · Trees
-Graphs · DP · Sorting
-```
-![](https://img.shields.io/badge/Strong-ED8B00?style=flat-square)
-
+<td align="center" width="210">
+<img src="https://img.shields.io/badge/DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<br/><br/>
+<sub>Arrays &nbsp;·&nbsp; Trees &nbsp;·&nbsp; Graphs</sub><br/>
+<sub>Dynamic Programming &nbsp;·&nbsp; Sorting</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Strong-ED8B00?style=flat-square"/>
 </td>
+
 </tr>
 </table>
+
 </div>
+
+<br/>
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=swift,java,nodejs,react,typescript,javascript,mysql,mongodb,firebase,postgres,docker,aws,git,linux,figma&theme=dark&perline=8"/>
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=swift,xcode&theme=dark"/>
+
+<br/>
+
+**Backend & Frontend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,typescript,javascript,html,css&theme=dark"/>
+
+<br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres&theme=dark"/>
+
+<br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,figma&theme=dark"/>
+
 </div>
+
+<br/>
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyash170&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=6E9EFF&icon_color=6E9EFF"/>
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash170&layout=compact&theme=github_dark&hide_border=true&title_color=6E9EFF"/>
 
-## Connect
+<br/><br/>
 
-<div align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shreyash170&theme=github-dark&hide_border=true&ring=6E9EFF&fire=6E9EFF&currStreakLabel=6E9EFF"/>
+
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,12,20&section=footer"/>
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shreyash-gupta-a839a4192/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/shreyash_170">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/shreyash170">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:shreyashgupta.170@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=2,12,20&section=footer"/>
