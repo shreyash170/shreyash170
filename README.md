@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=16&duration=2800&pause=1000&color=6E9EFF&center=true&vCenter=true&width=650&lines=Swift+%7C+SwiftUI+%7C+UIKit+%7C+Xcode;Node.js+%7C+React+%7C+Full+Stack+Engineer;DSA"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=16&duration=2800&pause=1000&color=6E9EFF&center=true&vCenter=true&width=650&lines=Swift+%7C+SwiftUI+%7C+UIKit+%7C+Xcode;Node.js+%7C+React+%7C+Full+Stack+Engineer;"/>
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ## About Me
 
-Software Engineer with **2.4+ years of experience building and shipping production-grade iOS applications using Swift. Beyond iOS, I work across the stack — developing scalable RESTful backends with Node.js and modern frontend interfaces with React. I also have a strong foundation in Data Structures and Algorithms, with extensive problem-solving experience in Java.
+Software Engineer with 2.4+ years of experience building and shipping production-grade iOS applications using Swift. Beyond iOS, I work across the stack — developing scalable RESTful backends with Node.js and modern frontend interfaces with React. I also have a strong foundation in Data Structures and Algorithms, with extensive problem-solving experience in Java.
 
 ---
 
