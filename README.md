@@ -121,7 +121,7 @@ Software Engineer with 2.4+ years of experience building and shipping production
 <a href="https://www.linkedin.com/in/shreyash-gupta-a839a4192/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<!-- &nbsp; -->
+&nbsp;
 <a href="https://x.com/shreyash_170">
   <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
