@@ -22,7 +22,7 @@
 
 ---
 
-## About Me
+## About M e
 
 Software Engineer with 2.4+ years of experience building and shipping production-grade iOS applications using Swift. Beyond iOS, I work across the stack — developing scalable RESTful backends with Node.js and modern frontend interfaces with React. I also have a strong foundation in Data Structures and Algorithms, with extensive problem-solving experience in Java.
 
