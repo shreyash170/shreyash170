@@ -8,7 +8,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/iOS_Dev-2.4%2B_Years-0A84FF?style=flat-square&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/iOS_Dev-2.9%2B_Years-0A84FF?style=flat-square&logo=apple&logoColor=white)
 &nbsp;
 ![](https://img.shields.io/badge/Backend-Node.js-3C873A?style=flat-square&logo=nodedotjs&logoColor=white)
 &nbsp;
