@@ -47,7 +47,7 @@ Software Engineer with **2+ years** of experience building and shipping producti
 <br/><br/>
 Swift · SwiftUI · UIKit
 <br/>
-Xcode · CocoaPods · CoreData
+Xcode · CocoaPods · CoreData · CoreAnimation 
 <br/><br/>
 <img src="https://img.shields.io/badge/2yr_10mo-0A84FF?style=flat-square&logoColor=white"/>
 
